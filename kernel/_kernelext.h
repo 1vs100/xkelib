@@ -1,7 +1,7 @@
 #ifndef __KERNEL_DEFINES_H
 #define __KERNEL_DEFINES_H
 
-#pragma comment(lib, "kernelext")
+#pragma comment(lib, "xkelib")
 
 #include "keFileInfo.h"
 #include "keXexInfo.h"
