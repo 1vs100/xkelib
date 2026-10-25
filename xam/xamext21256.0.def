@@ -882,7 +882,7 @@ EXPORTS
 	IsBadReadPtr @1125
 	IsBadWritePtr @1126
 	FileTimeToLocalFileTime @1127
-	XMemCpy @1128
+;	XMemCpy @1128
 	XMemCpyStreaming @1129
 ;	XamHudSetUserIndex @1130
 ;	XamShowNuiTroubleshooterUI @1131

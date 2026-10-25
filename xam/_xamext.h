@@ -1,7 +1,7 @@
 #ifndef __XAMEXT_DEFINES_H
 #define __XAMEXT_DEFINES_H
 
-#pragma comment(lib, "xamext")
+#pragma comment(lib, "xkelib")
 #pragma comment(lib, "xav")
 
 #include "xamXContent.h"
